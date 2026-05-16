@@ -88,6 +88,3 @@ HMS/
 6. **Access the application:**
    Open a web browser and navigate to `http://127.0.0.1:8000/`.
 
-## 🤝 Contributing
-
-When contributing to this repository, please ensure that all real-time functionalities (like dashboard updates and AI voice responses) are rigorously tested over WebSocket connections to avoid pipeline latency or disconnection errors.
